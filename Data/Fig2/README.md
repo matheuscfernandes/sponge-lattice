@@ -1,8 +1,8 @@
 # File Information
-For all files, each row corresponds to a different angle (theta). 
+For all files, each row corresponds to a different strain. Each file corresponds to different designs as well as different experiemts or FE simulation.
 
-| Theta  | Design A |  Design B  |  Design C |  Design D |
-|---|---|---|---|---|
-| theta_1 | ...  |...  | ...  | ...  |
-| ...  | ... |  ... |  ... | ...  |
-|  theta_n | ...  | ...  |...   | ...  |
+| Theta  |  Norm RFy | 
+|---|---|
+| ... | ...  |
+| ...  | ... | 
+|  ... | ...  |
