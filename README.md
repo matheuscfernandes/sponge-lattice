@@ -11,4 +11,6 @@ Corresponding Authors: jweaver@seas.harvard.edu; bertoldi@seas.harvard.edu
 
 If you would like to further improve this code, please submit a pull request and clearly state your suggestions and the reason for this improvement. 
 
+Additional codes required for reproduction of the information provided in supplemental information document of this publication are made available upon request.
+
 Thank you!
