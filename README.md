@@ -1,8 +1,9 @@
 # Sponge Structure Data and Code
 This contains the data and code for the publication in Nature Materials.
 
-doi: TBD
-Link to publication: TBD
+**doi: TBD**
+
+**Link to publication: TBD**
 
 Authors: Matheus C. Fernandes, Joanna Aizenbert, James C. Weaver, and Katia Bertoldi
 
