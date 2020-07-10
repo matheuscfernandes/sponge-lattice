@@ -98,11 +98,11 @@ if __name__=='__main__':
 	sigma0=0.1
 
 	# Initialize the CMA-ES optimizer (All variables lie in the interval 0,1)
-	es = cma.CMAEvolutionStrategy(X0, sigma0, {'bounds': [0.0, 1.0], 'maxiter': 200,'popsize':20})
+	es = cma.CMAEvolutionStrategy(X0, sigma0, {'bounds': [0.0, 1.0], 'maxiter': 200,'popsize':30})
 		
 	# EvalParallel() enables the paralle evaluation of candidate points every generation
 	# This greatly speeds up the computation time for each optimization run
-	with cma.fitness_transformations.EvalParallel(20) as parallel:
+	with cma.fitness_transformations.EvalParallel(15) as parallel:
 		
 		# While not optimal keep iterating
 		while not es.stop():
