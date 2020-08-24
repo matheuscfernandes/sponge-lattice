@@ -1,9 +1,10 @@
 # Sponge Structure Data and Code
 This contains the data and code for the publication in Nature Materials.
 
-**doi: TBD**
+**doi: 10.1038/s41563-020-0798-1**
 
-**Link to publication: TBD**
+**Link to publication: [Mechanically robust lattices inspired by deep-sea
+glass sponges][https://doi.org/10.1038/s41563-020-0798-1]**
 
 Authors: Matheus C. Fernandes, Joanna Aizenbert, James C. Weaver, and Katia Bertoldi
 
