@@ -20,5 +20,5 @@ Additional codes required for reproduction of the information provided in supple
 
 Thank you!
 
-[![Harvard Horizons Video](https://img.youtube.com/vi/u16FjNGMoEsE/0.jpg)](https://www.youtube.com/watch?v=u16FjNGMoEs)
+[![Harvard Horizons Video](yt.png)](https://www.youtube.com/watch?v=u16FjNGMoEs)
 
