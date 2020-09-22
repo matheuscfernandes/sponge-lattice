@@ -1,4 +1,4 @@
-[![Harvard Horizons Video](yt.png)](https://mcfernandes.com/horizons-talk)
+[![Harvard Horizons Video](yt.png)](http://mcfernandes.com/horizons-talk)
 
 # Sponge Structure Data and Code
 This contains the data and code for the publication in Nature Materials.
