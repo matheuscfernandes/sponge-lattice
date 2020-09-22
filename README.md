@@ -19,3 +19,6 @@ If you would like to further improve this code, please submit a pull request and
 Additional codes required for reproduction of the information provided in supplemental information document of this publication are made available upon request.
 
 Thank you!
+
+[![Harvard Horizons Video](https://img.youtube.com/vi/u16FjNGMoEsE/0.jpg)](https://www.youtube.com/watch?v=u16FjNGMoEs)
+
