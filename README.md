@@ -1,4 +1,3 @@
-<!-- [![Harvard Horizons Video](yt.png)](http://mcfernandes.com/horizons-talk) -->
 [![Harvard Horizons Video](yt.png)](https://www.youtube.com/watch?v=u16FjNGMoEs)
 
 # Sponge Structure Data and Code
