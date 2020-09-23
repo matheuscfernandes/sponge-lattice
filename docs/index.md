@@ -9,6 +9,7 @@ A great summary of the work can be watched in my TED-style Harvard Horizons talk
 
 {% include youtubePlayer.html id="u16FjNGMoEs" %}
 
+### Abstract
 The predominantly deep-sea hexactinellid sponges are known for their ability to construct remarkably complex skeletons from amorphous hydrated silica. The skeletal system of one such species of sponge, Euplectella aspergillum, consists of a square-grid-like architecture overlaid with a double set of diagonal bracings, creating a chequerboard-like pattern of open and closed cells. Here, using a combination of finite element simulations and mechanical tests on 3D-printed specimens of different lattice geometries, we show that the sponge’s diagonal reinforcement strategy achieves the highest buckling resistance for a given amount of material. Furthermore, using an evolutionary optimization algorithm, we show that our sponge-inspired lattice geometry approaches the optimum material distribution for the design space considered. Our results demonstrate that lessons learned from the study of sponge skeletal systems can be exploited for the realization of square lattice geometries that are geometrically optimized to avoid global structural buckling, with implications for improved material use in modern infrastructural applications.
 
 ## Structure of Repository
