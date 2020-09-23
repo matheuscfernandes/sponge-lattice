@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/matheuscfernandes/sponge-lattice/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://doi.org/10.1038/s41563-020-0798-1) to maintain and preview the content for your website in Markdown files.
 
 {% include youtubePlayer.html id="u16FjNGMoEs" %}
 
