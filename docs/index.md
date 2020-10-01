@@ -8,7 +8,6 @@ The corresponding authors are [James C. Weaver (jweaver@seas.harvard.edu)](mailt
 A great summary of the work can be watched in my TED-style Harvard Horizons talk below. 
 
 {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %}
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/u16FjNGMoEs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>&nbsp;</p>
 
