@@ -7,7 +7,7 @@ The corresponding authors are [James C. Weaver (jweaver@seas.harvard.edu)](mailt
 ## The Project
 A great summary of the work can be watched in my TED-style Harvard Horizons talk below. 
 
-<!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
+<!--- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
 {% include youtubePlayer.html id="u16FjNGMoEs" %}
 
 <p>&nbsp;</p>
