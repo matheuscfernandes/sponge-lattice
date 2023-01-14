@@ -30,4 +30,4 @@ The repository is devided into two sections:
 2. [Data: contains all data necessary to re-plot the data shown in Figs. 2-5.](https://github.com/matheuscfernandes/sponge-lattice/tree/master/Data) [Plotting.ipynb serves as an example on how to plot and utilize the data.](https://github.com/matheuscfernandes/sponge-lattice/blob/master/Data/Plotting.ipynb)
 
 
-If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and email me at [(fernandes@seas.harvard.edu)](mailto:fernandes@seas.harvard.edu).
+If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and contact me at [contact](https://fer.me/cont).
